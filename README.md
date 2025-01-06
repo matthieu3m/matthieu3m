@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif" width="600" height="300"/>
+  <img src="[https://miro.medium.com/v2/resize:fit:720/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/08/30161708/DevOps-min-min.gif)" width="600" height="300"/>
 </div>
 
 <br>
